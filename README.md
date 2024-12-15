@@ -1,6 +1,6 @@
 # Encryption Algorithm Detector
 
-### Identification of Cryptographic Algorithm using AI/ML Techniques (SIH 2024 Problem Statement - 1681)
+### Identification of Algorithm from given dataset using AI/ML Techniques (SIH 2024 Problem Statement - 1681)
 This repository implements an AI/ML-based solution for identifying cryptographic algorithms from given datasets. 
 
 ---
